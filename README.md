@@ -115,7 +115,7 @@ The app first shows the images present in the database. On clicking the image, t
 
 On pressing the buttons, the actions as mentioned above are carried out. Hence, entire project was successfully implemented.
 
-##Conclusion
+## Conclusion
 People visiting when a person is not present at their home or workplace is a common problem nowadays. Our project provides a low-cost and efficient solution to this problem, while simultaneously giving the user a variety of options to respond to the visitor. Depends on who is visiting, the user can either take no action, communicate with the person, or alert people if needed.   
 Furthermore, one would not be disturbed if a familiar person visits, as in that case the system would not take any action using the face recognition software.   
 The project ensures that one is always aware as to who visits the premises of their home/workplace and when, and thus alleviates the fear of missing an important delivery. Also, it enables a presence of any unscrupulous people in the vicinity.
