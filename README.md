@@ -118,7 +118,7 @@ On pressing the buttons, the actions as mentioned above are carried out. Hence, 
 ## Conclusion
 People visiting when a person is not present at their home or workplace is a common problem nowadays. Our project provides a low-cost and efficient solution to this problem, while simultaneously giving the user a variety of options to respond to the visitor. Depends on who is visiting, the user can either take no action, communicate with the person, or alert people if needed.   
 Furthermore, one would not be disturbed if a familiar person visits, as in that case the system would not take any action using the face recognition software.   
-The project ensures that one is always aware as to who visits the premises of their home/workplace and when, and thus alleviates the fear of missing an important delivery. Also, it enables a presence of any unscrupulous people in the vicinity.
+The project ensures that one is always aware as to who visits the premises of their home/workplace and when, and thus alleviates the fear of missing an important delivery. Also, it enables the user to know about the presence of any unscrupulous people in the vicinity.   
 Our project provides a low-cost alternative to the users, while providing a non-intrusive approach.
 ## Future Scope
 The system can be made more efficient in the future.
@@ -180,7 +180,7 @@ WAVELET TRANSFORMS”, IJAET 2012
 [47] Kumar, Sushant, and S. S. Solanki, “Remote home surveillance system,” IEEE Int. Con. Advances in Computing, Communication, and Automation, 2016, pp. 1-4.   
 [48] S. Sruthy , Sudhish N George “Wi-Fi enabled home security surveillance system using Raspberry Pi and IOT module”.   
 [49] RajeebLochan Dash, Mrs. A. RuhanBevi,” Real-time Transmission of Voice over 802.11 Wireless Networks Using Raspberry Pi” IJEDR 2014.   
-[50] Available [online]: http: //www.raspberrypi.org/downloads   
+[50] Available [online]: http://www.raspberrypi.org/downloads   
 [51] Available [online]: http://www.sourceforge.net/projects/win32diskimager/   
 [52] Bhushan R Jichkar., "Proposed System for Placing Free Call over Wi-Fi Network Using VoIP and SIP", Int. Journal of Engineering Research   
 [53] Applications, ISSN:2248-9622, Vol.4, Issue 1( Version 3), pp.132-135, January 2014.   
