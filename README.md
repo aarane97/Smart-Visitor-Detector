@@ -84,11 +84,11 @@ As soon as a distance lesser than threshold distance is encountered, the system 
 After the distance is found to be lesser than threshold, an image is clicked by the webcam. The image as seen on the Raspberry Pi is shown in figure.
 
 <p align="center">
-<img align="center" width="700" height="500" src="https://user-images.githubusercontent.com/61768243/77688204-0ccff200-6f76-11ea-9ad1-fe9d9b0c91a4.png">
+<img align="center" width="600" height="500" src="https://user-images.githubusercontent.com/61768243/77688204-0ccff200-6f76-11ea-9ad1-fe9d9b0c91a4.png">
 </p>
 <div align="center">Image clicked using webcam as seen on Raspberry Pi</div>
 
-###Face Recognition
+### Face Recognition
 The notification is sent to the app only if the person is unknown. The face recognition module checks whether the person is known by comparing with images in the known images database. If the face matches with the images in the known database, then the output is “1”, as shown in figure.
 
 <p align="center">
