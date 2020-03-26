@@ -1,6 +1,4 @@
 # Smart-Visitor-Detector
-This repository contains the code used for my final year project "Smart Visitor Detector". This project was undertaken during
-my undergraduate studies at VES Institute of Technology, Mumbai.
 
 ## Aim 
 Home automation is a blooming market nowadays. Visitor detection technologies, though, have not become prevalent due to it being expensive. Our project aims to provide a low-cost solution to the problems mentioned above, by giving the user options to communicate with the user or to raise an alarm, depending on what the user wants. This would enable the technology to be more prevalent, and would also ensure the peace of mind when the user is away from his workplace/home.
