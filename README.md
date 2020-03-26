@@ -151,7 +151,7 @@ WAVELET TRANSFORMS”, IJAET 2012
 [18] "Arduino Uno", En.wikipedia.org, 2019. [Online]. Available: https://en.wikipedia.org/wiki/Arduino_Uno   
 [19] R. Burnett and M. Inc., "Understanding How Ultrasonic Sensors Work - MaxBotix Inc.", MaxBotix Inc., 2019. [Online]. Available: https://www.maxbotix.com/articles/how-ultrasonic-sensors-work.html   
 [20] M. Design, "EDIMAX - Wireless Adapters - N150 - N150 Wi-Fi Nano USB Adapter, Ideal for Raspberry Pi", Edimax.com, 2019. [Online]. Available: https://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/global/wireless_adapters_n150/ew-7811un   
-[21] "ATMega328P Microcontroller Pinout, Pin Configuration, Features & Datasheet", Components101.com, 2019. [Online]. Available: https://components101.com/microcontrollers/atmega328p-pinout-features-datasheet.   
+[21] "ATMega328P Microcontroller Pinout, Pin Configuration, Features & Datasheet", Components101.com, 2019. [Online]. Available: https://www.components101.com/microcontrollers/atmega328p-pinout-features-datasheet.   
 [22] Akash v Bhatkule - Home Based Security Control System using Raspberry Pi and GSM, International Journal of Innovative Research in Computer and Communication Engineering, vol. 4, pp. 16259-16263, 2016   
 [23] Anuradha.R.S, Bharathi.R - Optimized Door Locking and Unlocking Using IoT for Physically Challenged People, International Journal of Innovative Research in Computer and Communication Engineering, vol. 4, pp. 3397-3401, 2016.   
 [24] S. Nazeem Basha, Dr. S.A.K. Jilani - An Intelligent Door System using Raspberry Pi and Amazon Web Services IoT, International Journal of Engineering Trends and Technology (IJETT), vol. 33, pp. 84-89, 2016   
@@ -180,9 +180,9 @@ WAVELET TRANSFORMS”, IJAET 2012
 [47] Kumar, Sushant, and S. S. Solanki, “Remote home surveillance system,” IEEE Int. Con. Advances in Computing, Communication, and Automation, 2016, pp. 1-4.   
 [48] S. Sruthy , Sudhish N George “Wi-Fi enabled home security surveillance system using Raspberry Pi and IOT module”.   
 [49] RajeebLochan Dash, Mrs. A. RuhanBevi,” Real-time Transmission of Voice over 802.11 Wireless Networks Using Raspberry Pi” IJEDR 2014.   
-[50] Available [online]: http: // www. raspberrypi. org /downloads   
-[51] Available [online]: http://sourceforge.net/projects/win32diskimager/   
-[52] Bhushan R Jichkar., "Proposed System for Placing Free Call over Wi-Fi Network Using VoIP and SIP", Int. Journal of Engineering Research and   
+[50] Available [online]: http: //www.raspberrypi.org/downloads   
+[51] Available [online]: http://www.sourceforge.net/projects/win32diskimager/   
+[52] Bhushan R Jichkar., "Proposed System for Placing Free Call over Wi-Fi Network Using VoIP and SIP", Int. Journal of Engineering Research   
 [53] Applications, ISSN:2248-9622, Vol.4, Issue 1( Version 3), pp.132-135, January 2014.   
 [54] S.Sundar D.C.E, M. Krishna Kumar, P.Selvinpremkumar, M.Chinnadurai,“Voice Over Ip Via Bluetooth/Wi-Fi Peer To Peer”, IEEE Paper, March 30, 31, 2013.   
 [55] Matt Richardson, Shawn Wallace, "Getting Started with Raspberry”, Brian Jepson, O'Reilly Media Inc., United States of America, first edition, pp.10-31, December 2012   
